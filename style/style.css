@@ -80,6 +80,7 @@ body {
 .card .card--text h1 {
   line-height: 1em;
   margin: 1rem 0;
+  color: hsl(212deg, 21%, 14%);
 }
 .card .card--text .para {
   line-height: 1.5em;
